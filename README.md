@@ -1,6 +1,6 @@
 # Bulk-Image-Negative-Converter
 
-This Python script converts all images in the directory to negatives.
+Bulk-Image-Negative-Converter is a Python script that uses the Pillow library to converts all images in the directory to negatives.
 
 ## Usage
 
