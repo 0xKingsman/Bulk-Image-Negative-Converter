@@ -25,7 +25,7 @@ Bulk Image Negative Converter is a Python script that uses the Pillow library to
     python Image-Negative.py
     ```
 
-6. Wolah! The script has successfully mirrored all the Images in the current directory replacing the originals.
+6. Wolah! The script has successfully converted all the Images to negatives in the directory replacing the originals.
 
 
 ## Author
